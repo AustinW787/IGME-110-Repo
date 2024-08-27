@@ -3,7 +3,7 @@
 ## Level-2 Header
 
 - RIT
-- [RIT]https://www.rit.edu/
+- [RIT](https://www.rit.edu/)
 
 - red
 - green
