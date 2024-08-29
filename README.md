@@ -19,3 +19,5 @@
 
 
 the quick brown fox jumped over the lazy dog
+
+![an image](md-images/cassie.jpg)
