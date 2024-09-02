@@ -23,7 +23,7 @@
 2. [PVZ](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/)
 3. [Emberward](https://store.steampowered.com/app/2459550/Emberward/)
 
-## Rythm
+## Rhythm
 1. [ADOFAI](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/)
 2. [Rythm Doctor](https://store.steampowered.com/app/774181/Rhythm_Doctor/)
 3. [Melatonin](https://store.steampowered.com/app/1585220/Melatonin/)
